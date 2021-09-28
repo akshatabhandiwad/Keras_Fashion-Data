@@ -14,7 +14,7 @@ header-includes:
     - \usepackage{lipsum}
     - \pagestyle{fancy}
     - \fancyhead[LO,RE]{}
-    - \fancyhead[R]{Keras - Tensorflow for R | Akshata Bhandiwad}
+    - \fancyhead[R]{Keras - TensorFlow for R | Akshata Bhandiwad}
 ---
 
 # **Fashion Images Classification**
